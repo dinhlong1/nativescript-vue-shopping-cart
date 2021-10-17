@@ -1,0 +1,205 @@
+{
+    "users":[{
+        "email": "admin@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "email": "long@gmail.com",
+        "password": "12345678"
+    }
+],
+    "flashSaleProduct":[{ 
+        "invId": 10,
+        "name": "Vivo Y53s",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/240286/vivo-y53s-xanh-tim-1-org.jpg",
+        "price": 2300000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 9,
+        "name": "Iphone11",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-xanh-la-1-1-org.jpg",
+        "price": 3450000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 8,
+        "name": "IPhone XR 128GB",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-vang-1-1-org.jpg",
+        "price": 5232000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 7,
+        "name": "Vsmart Star 5",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/237768/vsmart-star-5-4gb-64gb-den-1-1-org.jpg",
+        "price": 213245,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 6,
+        "name": "Vsmart Joy 4",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/228360/vsmart-joy-4-xanh-duong-1-org.jpg",
+        "price": 833912,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    }
+    ],
+    "listProducts": [{ 
+        "invId": 10,
+        "name": "Vivo Y53s",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/240286/vivo-y53s-xanh-tim-1-org.jpg",
+        "price": 2300000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 9,
+        "name": "Iphone11",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-xanh-la-1-1-org.jpg",
+        "price": 3450000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 8,
+        "name": "IPhone XR 128GB",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-vang-1-1-org.jpg",
+        "price": 5232000,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 7,
+        "name": "Vsmart Star 5",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/237768/vsmart-star-5-4gb-64gb-den-1-1-org.jpg",
+        "price": 213245,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },{ 
+        "invId": 6,
+        "name": "Vsmart Joy 4",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/228360/vsmart-joy-4-xanh-duong-1-org.jpg",
+        "price": 833912,
+        "priceOld": 990000,
+        "desc": "Mặt hàng bán chạy nhất năm 2020",
+        "rating": "3",
+        "numProduct": 20,
+        "place": "Đà Nẵng",
+        "inCart":0
+    },
+           { 
+            "invId": 1,
+            "name": "OPPO Reno6 Z 5G",
+            "image": "https://cdn.tgdd.vn/2021/07/campaign/SPDesk-465x482-2.png",
+            "price": 50000,
+            "priceOld": 990000,
+            "desc": "Siêu phẩm 2021",
+            "rating": "3",
+            "numProduct": 20,
+            "place": "Đà Nẵng",
+            "inCart":0
+        },
+        {
+            "inCart":0,
+            "invId": 2,
+            "name": "iPhone 12 Pro Max 128GB",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xanh-duong-1-org.jpg",
+            "price": 1000000,
+            "priceOld": 88900,
+            "desc": "PHONG CÁCH: Form rộng Unisex cho cả nam và nữ ( ship COD ) toàn quốc mặc lên form đẹp như ảnh Vải đẹp, không co rút , mềm mịn",
+            "rating": "5",
+            "numProduct": 10,
+            "place": "Hà Nội"
+        },
+        {
+            "inCart":0,
+            "invId": 3,
+            "name": "Xiaomi Mi 11 Lite",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/233241/xiaomi-mi-11-lite-4g-xanh-duong-1-org.jpg",
+            "price": 1000000,
+            "priceOld": 77700,
+            "desc": "Xiaomi Mi 11 Lite là phiên bản thu gọn của Xiaomi Mi 11 5G được ra mắt trước đó",
+            "rating": "4",
+            "numProduct": 23,
+            "place": "Sài Gòn"
+
+        },
+        {
+            "inCart":0,
+            "invId": 4,
+            "name": "Samsung Galaxy S20 FE",
+            "image": "https://cdn.tgdd.vn/Products/Images/42/224859/samsung-galaxy-s20-fan-edition-xanh-duong-1-org.jpg",
+            "price": 2000000,
+            "priceOld": 77700,
+            "desc": "Samsung đã giới thiệu đến người dùng thành viên mới của dòng điện thoại thông minh S20 Series đó chính là Samsung Galaxy S20 FE.",
+            "rating": "4",
+            "numProduct": 23,
+            "place": "Sài Gòn"
+
+        }
+
+    ],
+    "listComments": [{
+            "nameUser": "Hùng",
+            "imgUser": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "image": "https://images.unsplash.com/photo-1543508282-5c1f427f023f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=358&q=80",
+            "text": "hàng đẹp và chất lượng đáng mua",
+            "option": "Nhóm màu: màu xanh , Kích thước : 41"
+        },
+        {
+            "nameUser": "Ngân",
+            "imgUser": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "image": "https://images.unsplash.com/photo-1521093470119-a3acdc43374a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80",
+            "text": "gửi sai hàng",
+            "option": "Nhóm màu: đen , Kích thước : 42"
+        },
+        {
+            "nameUser": "Trần Hạnh",
+            "imgUser": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "image": "https://images.unsplash.com/photo-1515555230216-82228b88ea98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=626&q=80",
+            "text": "sản phẩm good",
+            "option": "Nhóm màu: trắng , Kích thước : 39"
+        },
+        {
+            "nameUser": "Ngọc",
+            "imgUser": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "image": "https://images.unsplash.com/photo-1488931352846-7ccb8b2225b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80",
+            "text": "sẽ quay lại mua tiếp",
+            "option": "Nhóm màu: xanh rêu , Kích thước : 40"
+        }
+    ]
+}
